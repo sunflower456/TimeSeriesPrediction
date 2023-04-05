@@ -1,0 +1,161 @@
+feature,mae
+cpu__abs_energy,0.16243745294392448
+cpu__benford_correlation,0.1624244994768966
+cpu__quantile__q_0.3,0.16227887422414108
+"socket__cwt_coefficients__coeff_0__w_5__widths_(2, 5, 10, 20)",0.16226115155846843
+socket__quantile__q_0.8,0.16225468095233045
+"rx_bytes__fft_coefficient__attr_""abs""__coeff_0",0.16225460488906557
+socket__quantile__q_0.4,0.1622491463552337
+cpu__maximum,0.16224748591389737
+socket__quantile__q_0.7,0.1622462256058671
+socket__benford_correlation,0.1622439527802487
+cpu__quantile__q_0.2,0.16224106430825463
+socket__quantile__q_0.3,0.16224081772567212
+"socket__cwt_coefficients__coeff_0__w_10__widths_(2, 5, 10, 20)",0.16223972098687017
+rss__absolute_maximum,0.16223875204303378
+socket__quantile__q_0.6,0.16223792577882676
+socket__abs_energy,0.1622365251931535
+socket__median,0.1622353582487464
+"socket__fft_coefficient__attr_""real""__coeff_0",0.16223417723328645
+thread__abs_energy,0.16223324078075196
+socket__maximum,0.16223180555540168
+tx_bytes__benford_correlation,0.1622300110201686
+"socket__fft_coefficient__attr_""abs""__coeff_0",0.1622275079392773
+socket__root_mean_square,0.16222496160671598
+socket__sum_values,0.16222305280788338
+rx_bytes__quantile__q_0.9,0.16222273999337739
+socket__quantile__q_0.2,0.1622186047358964
+socket__absolute_maximum,0.16221498114370003
+socket__mean,0.16221407256580314
+"socket__cwt_coefficients__coeff_0__w_2__widths_(2, 5, 10, 20)",0.16220823883925894
+thread__minimum,0.1622066455089776
+socket__minimum,0.16220517927481226
+socket__quantile__q_0.1,0.16220376203704204
+socket__quantile__q_0.9,0.16220252436648788
+thread__quantile__q_0.7,0.16219798721671966
+rx_bytes__quantile__q_0.8,0.1621967087640056
+rss__median,0.16219333671036454
+rx_bytes__quantile__q_0.4,0.16219283113586494
+rx_bytes__quantile__q_0.3,0.16219068288994806
+"socket__cwt_coefficients__coeff_0__w_20__widths_(2, 5, 10, 20)",0.1621905920779543
+rx_bytes__quantile__q_0.2,0.16219045077132105
+rx_bytes__minimum,0.16218995043967868
+rx_bytes__sum_values,0.1621894896127097
+rx_bytes__maximum,0.1621877008261603
+"rx_bytes__cwt_coefficients__coeff_0__w_2__widths_(2, 5, 10, 20)",0.16218693549697016
+rx_bytes__absolute_maximum,0.16218546644414367
+thread__quantile__q_0.6,0.16218469199430385
+rx_bytes__median,0.16218420089567662
+"thread__fft_coefficient__attr_""abs""__coeff_0",0.16217796346745308
+rx_bytes__mean,0.16217695820189112
+rss__quantile__q_0.1,0.16217668345324848
+tx_bytes__mean,0.1621766118293735
+tx_bytes__quantile__q_0.3,0.16217613587261887
+"rx_bytes__fft_coefficient__attr_""real""__coeff_0",0.16217543506344456
+rss__quantile__q_0.6,0.16217516041562346
+tx_bytes__quantile__q_0.8,0.16217477239887723
+tx_bytes__abs_energy,0.16217473958161527
+tx_bytes__quantile__q_0.7,0.16217380140999765
+"cpu__fft_coefficient__attr_""real""__coeff_0",0.16217348602829826
+rx_bytes__quantile__q_0.7,0.16217343993743671
+"rss__fft_coefficient__attr_""real""__coeff_0",0.16217188189080547
+thread__mean,0.16216793575793706
+"thread__fft_coefficient__attr_""real""__coeff_0",0.1621670779883833
+"tx_bytes__fft_coefficient__attr_""real""__coeff_0",0.162165006973875
+"rx_bytes__cwt_coefficients__coeff_0__w_5__widths_(2, 5, 10, 20)",0.16216492650841302
+rss__quantile__q_0.4,0.16216471757199633
+"thread__cwt_coefficients__coeff_0__w_20__widths_(2, 5, 10, 20)",0.162164483385942
+tx_bytes__root_mean_square,0.16216356014068717
+thread__quantile__q_0.8,0.1621632073233015
+thread__benford_correlation,0.16216082059699125
+rx_bytes__abs_energy,0.16216066765635687
+tx_bytes__maximum,0.16216004086957686
+tx_bytes__quantile__q_0.1,0.1621587191255923
+"thread__cwt_coefficients__coeff_0__w_2__widths_(2, 5, 10, 20)",0.16215762471906608
+thread__quantile__q_0.9,0.1621573778247051
+tx_bytes__sum_values,0.16215640860425076
+"tx_bytes__cwt_coefficients__coeff_0__w_20__widths_(2, 5, 10, 20)",0.16215634446999916
+"tx_bytes__cwt_coefficients__coeff_0__w_2__widths_(2, 5, 10, 20)",0.1621562555561234
+thread__quantile__q_0.1,0.16215575364603882
+"rx_bytes__cwt_coefficients__coeff_0__w_20__widths_(2, 5, 10, 20)",0.1621554017225557
+"rx_bytes__cwt_coefficients__coeff_0__w_10__widths_(2, 5, 10, 20)",0.16215456887962115
+tx_bytes__minimum,0.1621533933235457
+rss__abs_energy,0.16215241244505862
+rx_bytes__quantile__q_0.6,0.16215234746962975
+tx_bytes__absolute_maximum,0.16215185342460756
+"cpu__cwt_coefficients__coeff_0__w_20__widths_(2, 5, 10, 20)",0.1621513455476933
+tx_bytes__median,0.1621504032536819
+thread__median,0.16215001325866524
+tx_bytes__quantile__q_0.2,0.1621476105788848
+thread__absolute_maximum,0.1621458625705614
+thread__root_mean_square,0.16214342700816717
+BASELINE,0.16214236155246484
+tx_bytes__quantile__q_0.4,0.1621419380538176
+rx_bytes__quantile__q_0.1,0.16214170630318017
+tx_bytes__quantile__q_0.9,0.16213895530929442
+tx_bytes__quantile__q_0.6,0.16213789398229872
+rx_bytes__root_mean_square,0.16213721743090936
+"thread__cwt_coefficients__coeff_0__w_5__widths_(2, 5, 10, 20)",0.16213590772516911
+"tx_bytes__fft_coefficient__attr_""abs""__coeff_0",0.16213390815928014
+"tx_bytes__cwt_coefficients__coeff_0__w_10__widths_(2, 5, 10, 20)",0.16213024003863313
+"tx_bytes__cwt_coefficients__coeff_0__w_5__widths_(2, 5, 10, 20)",0.16212557884090162
+thread__maximum,0.16212424535455838
+thread__quantile__q_0.4,0.1621214522260867
+rss__quantile__q_0.2,0.1621176634629612
+rss__quantile__q_0.7,0.16211593139021416
+thread__quantile__q_0.3,0.1621140749158175
+"cpu__fft_coefficient__attr_""abs""__coeff_0",0.16211404048734532
+"thread__cwt_coefficients__coeff_0__w_10__widths_(2, 5, 10, 20)",0.1621134650884404
+thread__sum_values,0.1621131136675791
+cpu__root_mean_square,0.16210957082110333
+"rss__cwt_coefficients__coeff_0__w_10__widths_(2, 5, 10, 20)",0.16210098562289116
+thread__quantile__q_0.2,0.16210072610239235
+rss__quantile__q_0.8,0.1620910428052217
+"cpu__cwt_coefficients__coeff_0__w_2__widths_(2, 5, 10, 20)",0.1620901833891784
+rss__quantile__q_0.9,0.16208646431921186
+rss__minimum,0.16208012162096985
+cpu__median,0.1620778168237761
+rss__root_mean_square,0.1620731695236928
+cpu__absolute_maximum,0.16207142451467788
+"rss__cwt_coefficients__coeff_0__w_2__widths_(2, 5, 10, 20)",0.1620702691038647
+rss__quantile__q_0.3,0.16206659809369006
+cpu__quantile__q_0.7,0.16206643911700425
+cpu__sum_values,0.16206522851861646
+rss__sum_values,0.1620646342999545
+"rss__fft_coefficient__attr_""abs""__coeff_0",0.16204621289406826
+"rss__cwt_coefficients__coeff_0__w_5__widths_(2, 5, 10, 20)",0.1620442430801842
+cpu__quantile__q_0.8,0.16204218008282312
+cpu__quantile__q_0.9,0.16203043819546112
+rss__mean,0.1620195024177407
+cpu__quantile__q_0.1,0.16201168830923296
+cpu__mean,0.16200785393193426
+"cpu__cwt_coefficients__coeff_0__w_10__widths_(2, 5, 10, 20)",0.16200765450273083
+cpu__quantile__q_0.6,0.16200235923485873
+cpu__quantile__q_0.4,0.1619933604286319
+"rss__cwt_coefficients__coeff_0__w_20__widths_(2, 5, 10, 20)",0.1619922633428113
+"cpu__cwt_coefficients__coeff_0__w_5__widths_(2, 5, 10, 20)",0.16198881428535886
+rss__maximum,0.1619863206104161
+rss__benford_correlation,0.16196885968548283
+cpu__minimum,0.16195818637079068
+memory__quantile__q_0.2,0.1598525553877716
+memory__quantile__q_0.1,0.15974468799593755
+memory__maximum,0.15973834019569627
+"memory__cwt_coefficients__coeff_0__w_20__widths_(2, 5, 10, 20)",0.1597023893839564
+memory__quantile__q_0.6,0.1596456405287967
+"memory__fft_coefficient__attr_""abs""__coeff_0",0.1595853277343527
+"memory__fft_coefficient__attr_""real""__coeff_0",0.1595778347573359
+memory__sum_values,0.15956756524587898
+memory__quantile__q_0.4,0.15953348658661368
+"memory__cwt_coefficients__coeff_0__w_2__widths_(2, 5, 10, 20)",0.15946185379901842
+memory__mean,0.15945930093374552
+memory__root_mean_square,0.15945588458536625
+"memory__cwt_coefficients__coeff_0__w_10__widths_(2, 5, 10, 20)",0.15945278813179617
+memory__median,0.1594512144001281
+memory__minimum,0.15944848333628214
+"memory__cwt_coefficients__coeff_0__w_5__widths_(2, 5, 10, 20)",0.15943684982408965
+memory__quantile__q_0.8,0.15939968836977622
+memory__quantile__q_0.7,0.1593996102263597
+memory__abs_energy,0.1593989385231156
+memory__absolute_maximum,0.15937863926915496
+memory__quantile__q_0.9,0.15934147982757055
+memory__quantile__q_0.3,0.159216294529209
